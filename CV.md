@@ -1,6 +1,9 @@
 # CV :
 
 ### Présentaion :
+
+![Photo de moi](https://github.com/Romii21/CV-exercice-Markdown/blob/main/Photo%20moi.jpeg?raw=true)
+
 * GENOUD Romain
 * 19/02/1996
 * Née à Dijon
